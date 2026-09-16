@@ -3,7 +3,7 @@
 
 # Andy
 
-Product Designer → AI Product Builder
+Product Designer + Front End Developer
 
 I design digital products and increasingly build them too.
 <!--

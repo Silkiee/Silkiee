@@ -1,5 +1,11 @@
 ## Hi there 👋
+<img src="./hero.gif" width="100%" alt="Andy — Product Designer and AI Product Builder">
 
+# Andy
+
+Product Designer → AI Product Builder
+
+I design digital products and increasingly build them too.
 <!--
 **Silkiee/Silkiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

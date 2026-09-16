@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="./hero.gif" width="100%" alt="Andy — Product Designer and AI Product Builder">
+<img alt="dance" src="https://github.com/Silkiee/Silkiee/blob/main/party.gif?raw=true" width="100%"> 
 
 # Andy
 

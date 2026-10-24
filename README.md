@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img alt="dance" src="https://github.com/Silkiee/Silkiee/blob/main/dance.gif?raw=true" width="50%"> 
+<img alt="dance" src="https://github.com/Silkiee/Silkiee/blob/main/dance.gif?raw=true" width="40%"> 
 
 # Andy
 
